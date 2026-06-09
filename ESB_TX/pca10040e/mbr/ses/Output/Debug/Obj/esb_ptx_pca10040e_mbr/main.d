@@ -1,5 +1,5 @@
 Output/Debug/Obj/esb_ptx_pca10040e_mbr/main.o: \
- C:\Nrf_sdk\nRF5_SDK_17.1.0_ddde560\examples\My_projects\ESB_TX\main.c \
+ C:\Nrf_sdk\nRF5_SDK_17.1.0_ddde560\examples\Angulator\ firmware\ESB_TX\main.c \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ 8.24/include/stdbool.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ 8.24/include/stdint.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ 8.24/include/__SEGGER_RTL.h \

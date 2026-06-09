@@ -1,5 +1,5 @@
 Output/Debug/Obj/esb_prx_pca10040/main.o: \
- C:\Nrf_sdk\nRF5_SDK_17.1.0_ddde560\examples\angulator_firmware\esb_prx\main.c \
+ C:\Nrf_sdk\nRF5_SDK_17.1.0_ddde560\examples\Angulator\ firmware\esb_prx\main.c \
  ../../../../../../components/proprietary_rf/esb/nrf_esb.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ 8.24/include/stdbool.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ 8.24/include/stdint.h \
@@ -23,8 +23,8 @@ Output/Debug/Obj/esb_prx_pca10040/main.o: \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ 8.24/include/stddef.h \
  ../../../../../../modules/nrfx/mdk/compiler_abstraction.h \
  ../../../../../../components/libraries/util/nordic_common.h \
- ../../../../../../components/libraries/util/sdk_common.h \
  C:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ 8.24/include/string.h \
+ ../../../../../../components/libraries/util/sdk_common.h \
  ../config/sdk_config.h \
  ../../../../../../components/libraries/util/sdk_os.h \
  ../../../../../../components/libraries/util/sdk_errors.h \

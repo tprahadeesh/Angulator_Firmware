@@ -50,4 +50,4 @@ Output/Debug/Obj/esb_prx_pca10040/nrf_log_default_backends.o: \
  C:\Nrf_sdk\nRF5_SDK_17.1.0_ddde560\components\libraries\log\src\nrf_log_internal.h \
  ../../../../../../components/libraries/log/nrf_log_types.h \
  ../../../../../../components/libraries/util/nrf_assert.h \
- ../../../../../../components/libraries/log/nrf_log_backend_rtt.h
+ ../../../../../../components/libraries/log/nrf_log_backend_uart.h

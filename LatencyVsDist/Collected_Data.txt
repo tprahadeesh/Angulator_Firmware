@@ -1,0 +1,2099 @@
+Python 3.10.11 (tags/v3.10.11:7d4cc5a, Apr  5 2023, 00:38:17) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+= RESTART: C:\Nrf_sdk\nRF5_SDK_17.1.0_ddde560\examples\Angulator firmware\LatencyVsTime_plot.py
+Connected to COM10
+
+=======================================================
+  Latency vs Distance — 9 points, 50 samples each
+  Distances: [0.0, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0] m
+=======================================================
+
+[1/9] Next distance: 0.0 m
+  Move device to 0.0 m and press Enter when ready...
+
+
+Stopped early.
+
+= RESTART: C:\Nrf_sdk\nRF5_SDK_17.1.0_ddde560\examples\Angulator firmware\LatencyVsTime_plot.py
+Connected to COM10
+
+=======================================================
+  Latency vs Distance — 9 points, 50 samples each
+  Distances: [0.0, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0] m
+=======================================================
+
+[1/9] Next distance: 0.0 m
+  Move device to 0.0 m and press Enter when ready...
+  Collecting 50 samples at 0.0 m ...
+    [ 1/50] 441 us
+    [ 2/50] 441 us
+    [ 3/50] 442 us
+    [ 4/50] 442 us
+    [ 5/50] 442 us
+    [ 6/50] 441 us
+    [ 7/50] 442 us
+    [ 8/50] 442 us
+    [ 9/50] 441 us
+    [10/50] 441 us
+    [11/50] 442 us
+    [12/50] 442 us
+    [13/50] 442 us
+    [14/50] 441 us
+    [15/50] 441 us
+    [16/50] 441 us
+    [17/50] 442 us
+    [18/50] 441 us
+    [19/50] 441 us
+    [20/50] 441 us
+    [21/50] 441 us
+    [22/50] 441 us
+    [23/50] 442 us
+    [24/50] 442 us
+    [25/50] 441 us
+    [26/50] 442 us
+    [27/50] 441 us
+    [28/50] 442 us
+    [29/50] 442 us
+    [30/50] 441 us
+    [31/50] 442 us
+    [32/50] 904 us
+    [33/50] 442 us
+    [34/50] 442 us
+    [35/50] 441 us
+    [36/50] 441 us
+    [37/50] 441 us
+    [38/50] 442 us
+    [39/50] 442 us
+    [40/50] 442 us
+    [41/50] 441 us
+    [42/50] 442 us
+    [43/50] 441 us
+    [44/50] 441 us
+    [45/50] 442 us
+    [46/50] 441 us
+    [47/50] 441 us
+    [48/50] 441 us
+    [49/50] 442 us
+    [50/50] 442 us
+  → Average latency at 0.0 m: 450.7 us
+
+[2/9] Next distance: 0.5 m
+  Move device to 0.5 m and press Enter when ready...
+  Collecting 50 samples at 0.5 m ...
+    [ 1/50] 442 us
+    [ 2/50] 441 us
+    [ 3/50] 441 us
+    [ 4/50] 441 us
+    [ 5/50] 442 us
+    [ 6/50] 441 us
+    [ 7/50] 441 us
+    [ 8/50] 442 us
+    [ 9/50] 441 us
+    [10/50] 441 us
+    [11/50] 442 us
+    [12/50] 442 us
+    [13/50] 441 us
+    [14/50] 442 us
+    [15/50] 442 us
+    [16/50] 442 us
+    [17/50] 441 us
+    [18/50] 442 us
+    [19/50] 441 us
+    [20/50] 442 us
+    [21/50] 441 us
+    [22/50] 442 us
+    [23/50] 442 us
+    [24/50] 442 us
+    [25/50] 442 us
+    [26/50] 442 us
+    [27/50] 442 us
+    [28/50] 441 us
+    [29/50] 442 us
+    [30/50] 441 us
+    [31/50] 441 us
+    [32/50] 441 us
+    [33/50] 441 us
+    [34/50] 441 us
+    [35/50] 442 us
+    [36/50] 441 us
+    [37/50] 442 us
+    [38/50] 442 us
+    [39/50] 441 us
+    [40/50] 442 us
+    [41/50] 442 us
+    [42/50] 442 us
+    [43/50] 441 us
+    [44/50] 441 us
+    [45/50] 442 us
+    [46/50] 442 us
+    [47/50] 442 us
+    [48/50] 441 us
+    [49/50] 441 us
+    [50/50] 441 us
+  → Average latency at 0.5 m: 441.5 us
+
+[3/9] Next distance: 1.0 m
+  Move device to 1.0 m and press Enter when ready...
+  Collecting 50 samples at 1.0 m ...
+    [ 1/50] 441 us
+    [ 2/50] 442 us
+    [ 3/50] 442 us
+    [ 4/50] 441 us
+    [ 5/50] 441 us
+    [ 6/50] 442 us
+    [ 7/50] 441 us
+    [ 8/50] 442 us
+    [ 9/50] 441 us
+    [10/50] 442 us
+    [11/50] 441 us
+    [12/50] 441 us
+    [13/50] 441 us
+    [14/50] 442 us
+    [15/50] 441 us
+    [16/50] 442 us
+    [17/50] 442 us
+    [18/50] 442 us
+    [19/50] 442 us
+    [20/50] 441 us
+    [21/50] 442 us
+    [22/50] 441 us
+    [23/50] 442 us
+    [24/50] 442 us
+    [25/50] 441 us
+    [26/50] 441 us
+    [27/50] 441 us
+    [28/50] 441 us
+    [29/50] 441 us
+    [30/50] 442 us
+    [31/50] 442 us
+    [32/50] 442 us
+    [33/50] 441 us
+    [34/50] 441 us
+    [35/50] 442 us
+    [36/50] 442 us
+    [37/50] 442 us
+    [38/50] 441 us
+    [39/50] 441 us
+    [40/50] 442 us
+    [41/50] 442 us
+    [42/50] 441 us
+    [43/50] 441 us
+    [44/50] 441 us
+    [45/50] 441 us
+    [46/50] 442 us
+    [47/50] 441 us
+    [48/50] 442 us
+    [49/50] 442 us
+    [50/50] 442 us
+  → Average latency at 1.0 m: 441.5 us
+
+[4/9] Next distance: 1.5 m
+  Move device to 1.5 m and press Enter when ready...
+  Collecting 50 samples at 1.5 m ...
+    [ 1/50] 442 us
+    [ 2/50] 442 us
+    [ 3/50] 442 us
+    [ 4/50] 442 us
+    [ 5/50] 441 us
+    [ 6/50] 441 us
+    [ 7/50] 442 us
+    [ 8/50] 441 us
+    [ 9/50] 442 us
+    [10/50] 441 us
+    [11/50] 441 us
+    [12/50] 441 us
+    [13/50] 442 us
+    [14/50] 442 us
+    [15/50] 442 us
+    [16/50] 441 us
+    [17/50] 441 us
+    [18/50] 441 us
+    [19/50] 441 us
+    [20/50] 442 us
+    [21/50] 395 us
+    [22/50] 442 us
+    [23/50] 442 us
+    [24/50] 441 us
+    [25/50] 441 us
+    [26/50] 442 us
+    [27/50] 441 us
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\tkinter\__init__.py", line 1921, in __call__
+    return self.func(*args)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\tkinter\__init__.py", line 839, in callit
+    func(*args)
+  File "C:\Users\Prahadeesh TN\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\matplotlib\backends\_backend_tk.py", line 274, in idle_draw
+    self.draw()
+  File "C:\Users\Prahadeesh TN\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\matplotlib\backends\backend_tkagg.py", line 11, in draw
+    self.blit()
+  File "C:\Users\Prahadeesh TN\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\matplotlib\backends\backend_tkagg.py", line 14, in blit
+    _backend_tk.blit(self._tkphoto, self.renderer.buffer_rgba(),
+  File "C:\Users\Prahadeesh TN\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\matplotlib\backends\_backend_tk.py", line 116, in blit
+    photoimage.tk.call(_blit_tcl_name, argsid)
+_tkinter.TclError: pyimage3
+
+
+Stopped early.
+
+= RESTART: C:\Nrf_sdk\nRF5_SDK_17.1.0_ddde560\examples\Angulator firmware\LatencyVsTime_plot.py
+Connected to COM10
+
+=======================================================
+  Latency vs Distance — 9 points, 50 samples each
+  Distances: [0.0, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0] m
+=======================================================
+
+[1/9] Next distance: 0.0 m
+  Move device to 0.0 m and press Enter when ready...
+  Collecting 50 samples at 0.0 m ...
+    [ 1/50] 5396 us
+    [ 2/50] 441 us
+    [ 3/50] 441 us
+    [ 4/50] 442 us
+    [ 5/50] 441 us
+    [ 6/50] 442 us
+    [ 7/50] 441 us
+    [ 8/50] 442 us
+    [ 9/50] 441 us
+    [10/50] 442 us
+    [11/50] 441 us
+    [12/50] 441 us
+    [13/50] 441 us
+    [14/50] 442 us
+    [15/50] 441 us
+    [16/50] 442 us
+    [17/50] 441 us
+    [18/50] 442 us
+    [19/50] 442 us
+    [20/50] 441 us
+    [21/50] 441 us
+    [22/50] 442 us
+    [23/50] 442 us
+    [24/50] 442 us
+    [25/50] 441 us
+    [26/50] 442 us
+    [27/50] 442 us
+    [28/50] 442 us
+    [29/50] 442 us
+    [30/50] 441 us
+    [31/50] 441 us
+    [32/50] 442 us
+    [33/50] 442 us
+    [34/50] 441 us
+    [35/50] 441 us
+    [36/50] 441 us
+    [37/50] 442 us
+    [38/50] 442 us
+    [39/50] 442 us
+    [40/50] 442 us
+    [41/50] 441 us
+    [42/50] 441 us
+    [43/50] 442 us
+    [44/50] 441 us
+    [45/50] 442 us
+    [46/50] 441 us
+    [47/50] 441 us
+    [48/50] 441 us
+    [49/50] 441 us
+    [50/50] 441 us
+  → Average latency at 0.0 m: 540.6 us
+
+[2/9] Next distance: 0.5 m
+  Move device to 0.5 m and press Enter when ready...
+  Collecting 50 samples at 0.5 m ...
+    [ 1/50] 442 us
+    [ 2/50] 441 us
+    [ 3/50] 441 us
+    [ 4/50] 441 us
+    [ 5/50] 442 us
+    [ 6/50] 441 us
+    [ 7/50] 441 us
+    [ 8/50] 442 us
+    [ 9/50] 441 us
+    [10/50] 442 us
+    [11/50] 442 us
+    [12/50] 442 us
+    [13/50] 441 us
+    [14/50] 441 us
+    [15/50] 442 us
+    [16/50] 441 us
+    [17/50] 442 us
+    [18/50] 442 us
+    [19/50] 442 us
+    [20/50] 442 us
+    [21/50] 441 us
+    [22/50] 441 us
+    [23/50] 441 us
+    [24/50] 441 us
+    [25/50] 442 us
+    [26/50] 441 us
+    [27/50] 442 us
+    [28/50] 442 us
+    [29/50] 441 us
+    [30/50] 441 us
+    [31/50] 441 us
+    [32/50] 442 us
+    [33/50] 442 us
+    [34/50] 441 us
+    [35/50] 441 us
+    [36/50] 442 us
+    [37/50] 441 us
+    [38/50] 441 us
+    [39/50] 442 us
+    [40/50] 442 us
+    [41/50] 441 us
+    [42/50] 441 us
+    [43/50] 441 us
+    [44/50] 442 us
+    [45/50] 441 us
+    [46/50] 441 us
+    [47/50] 441 us
+    [48/50] 442 us
+    [49/50] 442 us
+    [50/50] 442 us
+  → Average latency at 0.5 m: 441.5 us
+
+[3/9] Next distance: 1.0 m
+  Move device to 1.0 m and press Enter when ready...
+
+
+Stopped early.
+
+= RESTART: C:\Nrf_sdk\nRF5_SDK_17.1.0_ddde560\examples\Angulator firmware\LatencyVsTime_plot.py
+Connected to COM10
+
+=======================================================
+  Latency vs Distance — 9 points, 50 samples each
+  Distances: [0.0, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0] m
+=======================================================
+
+[1/9] Next distance: 0.0 m
+  Move device to 0.0 m and press Enter when ready...
+  Collecting 50 samples at 0.0 m ...
+    [ 1/50] 441 us
+    [ 2/50] 441 us
+    [ 3/50] 441 us
+    [ 4/50] 442 us
+    [ 5/50] 442 us
+    [ 6/50] 442 us
+    [ 7/50] 442 us
+    [ 8/50] 441 us
+    [ 9/50] 441 us
+    [10/50] 442 us
+    [11/50] 441 us
+    [12/50] 442 us
+    [13/50] 441 us
+    [14/50] 441 us
+    [15/50] 441 us
+    [16/50] 442 us
+    [17/50] 442 us
+    [18/50] 441 us
+    [19/50] 442 us
+    [20/50] 441 us
+    [21/50] 442 us
+    [22/50] 442 us
+    [23/50] 442 us
+    [24/50] 442 us
+    [25/50] 441 us
+    [26/50] 441 us
+    [27/50] 441 us
+    [28/50] 441 us
+    [29/50] 441 us
+    [30/50] 442 us
+    [31/50] 442 us
+    [32/50] 441 us
+    [33/50] 441 us
+    [34/50] 442 us
+    [35/50] 441 us
+    [36/50] 442 us
+    [37/50] 442 us
+    [38/50] 442 us
+    [39/50] 442 us
+    [40/50] 442 us
+    [41/50] 442 us
+    [42/50] 442 us
+    [43/50] 442 us
+    [44/50] 441 us
+    [45/50] 441 us
+    [46/50] 442 us
+    [47/50] 442 us
+    [48/50] 442 us
+    [49/50] 442 us
+    [50/50] 442 us
+  → Average latency at 0.0 m: 441.6 us
+
+[2/9] Next distance: 0.5 m
+  Move device to 0.5 m and press Enter when ready...
+  Collecting 50 samples at 0.5 m ...
+    [ 1/50] 441 us
+    [ 2/50] 441 us
+    [ 3/50] 442 us
+    [ 4/50] 442 us
+    [ 5/50] 442 us
+    [ 6/50] 442 us
+    [ 7/50] 441 us
+    [ 8/50] 442 us
+    [ 9/50] 441 us
+    [10/50] 441 us
+    [11/50] 442 us
+    [12/50] 441 us
+    [13/50] 442 us
+    [14/50] 442 us
+    [15/50] 442 us
+    [16/50] 441 us
+    [17/50] 442 us
+    [18/50] 441 us
+    [19/50] 441 us
+    [20/50] 441 us
+    [21/50] 441 us
+    [22/50] 442 us
+    [23/50] 441 us
+    [24/50] 441 us
+    [25/50] 441 us
+    [26/50] 441 us
+    [27/50] 441 us
+    [28/50] 442 us
+    [29/50] 442 us
+    [30/50] 441 us
+    [31/50] 442 us
+    [32/50] 441 us
+    [33/50] 442 us
+    [34/50] 441 us
+    [35/50] 442 us
+    [36/50] 442 us
+    [37/50] 442 us
+    [38/50] 904 us
+    [39/50] 441 us
+    [40/50] 442 us
+    [41/50] 441 us
+    [42/50] 441 us
+    [43/50] 441 us
+    [44/50] 442 us
+    [45/50] 442 us
+    [46/50] 442 us
+    [47/50] 441 us
+    [48/50] 441 us
+    [49/50] 442 us
+    [50/50] 441 us
+  → Average latency at 0.5 m: 450.7 us
+
+[3/9] Next distance: 1.0 m
+  Move device to 1.0 m and press Enter when ready...
+  Collecting 50 samples at 1.0 m ...
+    [ 1/50] 441 us
+    [ 2/50] 441 us
+    [ 3/50] 442 us
+    [ 4/50] 442 us
+    [ 5/50] 442 us
+    [ 6/50] 441 us
+    [ 7/50] 441 us
+    [ 8/50] 442 us
+    [ 9/50] 442 us
+    [10/50] 442 us
+    [11/50] 441 us
+    [12/50] 441 us
+    [13/50] 442 us
+    [14/50] 441 us
+    [15/50] 442 us
+    [16/50] 441 us
+    [17/50] 442 us
+    [18/50] 442 us
+    [19/50] 441 us
+    [20/50] 441 us
+    [21/50] 441 us
+    [22/50] 441 us
+    [23/50] 442 us
+    [24/50] 442 us
+    [25/50] 441 us
+    [26/50] 442 us
+    [27/50] 442 us
+    [28/50] 441 us
+    [29/50] 441 us
+    [30/50] 442 us
+    [31/50] 441 us
+    [32/50] 442 us
+    [33/50] 442 us
+    [34/50] 442 us
+    [35/50] 442 us
+    [36/50] 442 us
+    [37/50] 441 us
+    [38/50] 442 us
+    [39/50] 441 us
+    [40/50] 441 us
+    [41/50] 441 us
+    [42/50] 442 us
+    [43/50] 441 us
+    [44/50] 441 us
+    [45/50] 441 us
+    [46/50] 442 us
+    [47/50] 442 us
+    [48/50] 442 us
+    [49/50] 441 us
+    [50/50] 442 us
+  → Average latency at 1.0 m: 441.5 us
+
+[4/9] Next distance: 1.5 m
+  Move device to 1.5 m and press Enter when ready...
+  Collecting 50 samples at 1.5 m ...
+    [ 1/50] 324 us
+    [ 2/50] 441 us
+    [ 3/50] 442 us
+    [ 4/50] 442 us
+    [ 5/50] 442 us
+    [ 6/50] 441 us
+    [ 7/50] 441 us
+    [ 8/50] 442 us
+    [ 9/50] 441 us
+    [10/50] 442 us
+    [11/50] 441 us
+    [12/50] 442 us
+    [13/50] 441 us
+    [14/50] 441 us
+    [15/50] 442 us
+    [16/50] 442 us
+    [17/50] 442 us
+    [18/50] 441 us
+    [19/50] 441 us
+    [20/50] 442 us
+    [21/50] 442 us
+    [22/50] 442 us
+    [23/50] 442 us
+    [24/50] 441 us
+    [25/50] 441 us
+    [26/50] 442 us
+    [27/50] 441 us
+    [28/50] 441 us
+    [29/50] 442 us
+    [30/50] 442 us
+    [31/50] 442 us
+    [32/50] 442 us
+    [33/50] 442 us
+    [34/50] 441 us
+    [35/50] 442 us
+    [36/50] 442 us
+    [37/50] 441 us
+    [38/50] 441 us
+    [39/50] 441 us
+    [40/50] 442 us
+    [41/50] 441 us
+    [42/50] 441 us
+    [43/50] 441 us
+    [44/50] 441 us
+    [45/50] 442 us
+    [46/50] 442 us
+    [47/50] 442 us
+    [48/50] 441 us
+    [49/50] 441 us
+    [50/50] 442 us
+  → Average latency at 1.5 m: 439.2 us
+
+[5/9] Next distance: 2.0 m
+  Move device to 2.0 m and press Enter when ready...
+  Collecting 50 samples at 2.0 m ...
+    [ 1/50] 1366 us
+    [ 2/50] 1958 us
+    [ 3/50] 441 us
+    [ 4/50] 442 us
+    [ 5/50] 442 us
+    [ 6/50] 959 us
+    [ 7/50] 1828 us
+    [ 8/50] 441 us
+    [ 9/50] 441 us
+    [10/50] 442 us
+    [11/50] 441 us
+    [12/50] 442 us
+    [13/50] 442 us
+    [14/50] 441 us
+    [15/50] 441 us
+    [16/50] 442 us
+    [17/50] 442 us
+    [18/50] 442 us
+    [19/50] 441 us
+    [20/50] 442 us
+    [21/50] 441 us
+    [22/50] 441 us
+    [23/50] 441 us
+    [24/50] 442 us
+    [25/50] 442 us
+    [26/50] 442 us
+    [27/50] 442 us
+    [28/50] 441 us
+    [29/50] 1437 us
+    [30/50] 1437 us
+    [31/50] 1437 us
+    [32/50] 441 us
+    [33/50] 442 us
+    [34/50] 442 us
+    [35/50] 441 us
+    [36/50] 442 us
+    [37/50] 442 us
+    [38/50] 1828 us
+    [39/50] 442 us
+    [40/50] 1366 us
+    [41/50] 1366 us
+    [42/50] 1366 us
+    [43/50] 442 us
+    [44/50] 904 us
+    [45/50] 442 us
+    [46/50] 442 us
+    [47/50] 974 us
+    [48/50] 904 us
+    [49/50] 904 us
+    [50/50] 904 us
+  → Average latency at 2.0 m: 719.1 us
+
+[6/9] Next distance: 2.5 m
+  Move device to 2.5 m and press Enter when ready...
+  Collecting 50 samples at 2.5 m ...
+    [ 1/50] 442 us
+    [ 2/50] 441 us
+    [ 3/50] 441 us
+    [ 4/50] 441 us
+    [ 5/50] 442 us
+    [ 6/50] 904 us
+    [ 7/50] 442 us
+    [ 8/50] 441 us
+    [ 9/50] 441 us
+    [10/50] 441 us
+    [11/50] 441 us
+    [12/50] 441 us
+    [13/50] 441 us
+    [14/50] 1828 us
+    [15/50] 442 us
+    [16/50] 441 us
+    [17/50] 441 us
+    [18/50] 441 us
+    [19/50] 441 us
+    [20/50] 442 us
+    [21/50] 441 us
+    [22/50] 442 us
+    [23/50] 442 us
+    [24/50] 441 us
+    [25/50] 442 us
+    [26/50] 396 us
+    [27/50] 442 us
+    [28/50] 441 us
+    [29/50] 442 us
+    [30/50] 1828 us
+    [31/50] 441 us
+    [32/50] 442 us
+    [33/50] 442 us
+    [34/50] 442 us
+    [35/50] 442 us
+    [36/50] 442 us
+    [37/50] 442 us
+    [38/50] 442 us
+    [39/50] 441 us
+    [40/50] 442 us
+    [41/50] 442 us
+    [42/50] 441 us
+    [43/50] 442 us
+    [44/50] 442 us
+    [45/50] 442 us
+    [46/50] 441 us
+    [47/50] 441 us
+    [48/50] 442 us
+    [49/50] 442 us
+    [50/50] 441 us
+  → Average latency at 2.5 m: 505.3 us
+
+[7/9] Next distance: 3.0 m
+  Move device to 3.0 m and press Enter when ready...
+  Collecting 50 samples at 3.0 m ...
+    [ 1/50] 441 us
+    [ 2/50] 441 us
+    [ 3/50] 441 us
+    [ 4/50] 443 us
+    [ 5/50] 441 us
+    [ 6/50] 441 us
+    [ 7/50] 441 us
+    [ 8/50] 441 us
+    [ 9/50] 442 us
+    [10/50] 904 us
+    [11/50] 442 us
+    [12/50] 442 us
+    [13/50] 442 us
+    [14/50] 442 us
+    [15/50] 441 us
+    [16/50] 442 us
+    [17/50] 441 us
+    [18/50] 441 us
+    [19/50] 442 us
+    [20/50] 1828 us
+    [21/50] 442 us
+    [22/50] 442 us
+    [23/50] 441 us
+    [24/50] 441 us
+    [25/50] 442 us
+    [26/50] 442 us
+    [27/50] 441 us
+    [28/50] 441 us
+    [29/50] 442 us
+    [30/50] 442 us
+    [31/50] 442 us
+    [32/50] 442 us
+    [33/50] 441 us
+    [34/50] 442 us
+    [35/50] 441 us
+    [36/50] 441 us
+    [37/50] 441 us
+    [38/50] 442 us
+    [39/50] 442 us
+    [40/50] 441 us
+    [41/50] 442 us
+    [42/50] 441 us
+    [43/50] 442 us
+    [44/50] 442 us
+    [45/50] 441 us
+    [46/50] 441 us
+    [47/50] 441 us
+    [48/50] 1828 us
+    [49/50] 442 us
+    [50/50] 441 us
+  → Average latency at 3.0 m: 506.2 us
+
+[8/9] Next distance: 3.5 m
+  Move device to 3.5 m and press Enter when ready...
+  Collecting 50 samples at 3.5 m ...
+    [ 1/50] 904 us
+    [ 2/50] 1891 us
+    [ 3/50] 974 us
+    [ 4/50] 442 us
+    [ 5/50] 442 us
+    [ 6/50] 442 us
+    [ 7/50] 904 us
+    [ 8/50] 1365 us
+    [ 9/50] 441 us
+    [10/50] 442 us
+    [11/50] 442 us
+    [12/50] 441 us
+    [13/50] 974 us
+    [14/50] 442 us
+    [15/50] 442 us
+    [16/50] 441 us
+    [17/50] 442 us
+    [18/50] 441 us
+    [19/50] 442 us
+    [20/50] 442 us
+    [21/50] 442 us
+    [22/50] 442 us
+    [23/50] 441 us
+    [24/50] 441 us
+    [25/50] 441 us
+    [26/50] 904 us
+    [27/50] 441 us
+    [28/50] 442 us
+    [29/50] 442 us
+    [30/50] 442 us
+    [31/50] 442 us
+    [32/50] 1366 us
+    [33/50] 442 us
+    [34/50] 904 us
+    [35/50] 958 us
+    [36/50] 958 us
+    [37/50] 958 us
+    [38/50] 958 us
+    [39/50] 958 us
+    [40/50] 974 us
+    [41/50] 974 us
+    [42/50] 974 us
+    [43/50] 442 us
+    [44/50] 442 us
+    [45/50] 974 us
+    [46/50] 904 us
+    [47/50] 441 us
+    [48/50] 441 us
+    [49/50] 441 us
+    [50/50] 903 us
+  → Average latency at 3.5 m: 678.6 us
+
+[9/9] Next distance: 4.0 m
+  Move device to 4.0 m and press Enter when ready...
+  Collecting 50 samples at 4.0 m ...
+    [ 1/50] 442 us
+    [ 2/50] 442 us
+    [ 3/50] 442 us
+    [ 4/50] 441 us
+    [ 5/50] 441 us
+    [ 6/50] 442 us
+    [ 7/50] 441 us
+    [ 8/50] 442 us
+    [ 9/50] 442 us
+    [10/50] 442 us
+    [11/50] 442 us
+    [12/50] 443 us
+    [13/50] 441 us
+    [14/50] 442 us
+    [15/50] 442 us
+    [16/50] 442 us
+    [17/50] 904 us
+    [18/50] 442 us
+    [19/50] 442 us
+    [20/50] 287 us
+    [21/50] 442 us
+    [22/50] 442 us
+    [23/50] 441 us
+    [24/50] 441 us
+    [25/50] 441 us
+    [26/50] 307 us
+    [27/50] 441 us
+    [28/50] 441 us
+    [29/50] 441 us
+    [30/50] 442 us
+    [31/50] 441 us
+    [32/50] 442 us
+    [33/50] 442 us
+    [34/50] 442 us
+    [35/50] 442 us
+    [36/50] 442 us
+    [37/50] 904 us
+    [38/50] 441 us
+    [39/50] 442 us
+    [40/50] 442 us
+    [41/50] 442 us
+    [42/50] 442 us
+    [43/50] 441 us
+    [44/50] 442 us
+    [45/50] 442 us
+    [46/50] 442 us
+    [47/50] 441 us
+    [48/50] 442 us
+    [49/50] 442 us
+    [50/50] 441 us
+  → Average latency at 4.0 m: 454.4 us
+
+=======================================================
+  All distances collected!
+  Summary:
+     0.0 m  →  441.6 us
+     0.5 m  →  450.7 us
+     1.0 m  →  441.5 us
+     1.5 m  →  439.2 us
+     2.0 m  →  719.1 us
+     2.5 m  →  505.3 us
+     3.0 m  →  506.2 us
+     3.5 m  →  678.6 us
+     4.0 m  →  454.4 us
+=======================================================
+
+= RESTART: C:\Nrf_sdk\nRF5_SDK_17.1.0_ddde560\examples\Angulator firmware\LatencyVsTime_plot.py
+Connected to COM10
+
+=======================================================
+  Latency vs Distance — 9 points, 50 samples each
+  Distances: [0.0, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0] m
+=======================================================
+
+[1/9] Next distance: 0.0 m
+  Move device to 0.0 m and press Enter when ready...
+  Collecting 50 samples at 0.0 m ...
+    [ 1/50] 441 us
+    [ 2/50] 441 us
+    [ 3/50] 441 us
+    [ 4/50] 441 us
+    [ 5/50] 442 us
+    [ 6/50] 442 us
+    [ 7/50] 442 us
+    [ 8/50] 441 us
+    [ 9/50] 442 us
+    [10/50] 442 us
+    [11/50] 441 us
+    [12/50] 441 us
+    [13/50] 442 us
+    [14/50] 442 us
+    [15/50] 442 us
+    [16/50] 442 us
+    [17/50] 441 us
+    [18/50] 442 us
+    [19/50] 441 us
+    [20/50] 441 us
+    [21/50] 442 us
+    [22/50] 441 us
+    [23/50] 441 us
+    [24/50] 442 us
+    [25/50] 441 us
+    [26/50] 441 us
+    [27/50] 441 us
+    [28/50] 441 us
+    [29/50] 441 us
+    [30/50] 442 us
+    [31/50] 441 us
+    [32/50] 442 us
+    [33/50] 442 us
+    [34/50] 442 us
+    [35/50] 441 us
+    [36/50] 442 us
+    [37/50] 441 us
+    [38/50] 442 us
+    [39/50] 442 us
+    [40/50] 441 us
+    [41/50] 442 us
+    [42/50] 441 us
+    [43/50] 441 us
+    [44/50] 442 us
+    [45/50] 441 us
+    [46/50] 442 us
+    [47/50] 442 us
+    [48/50] 442 us
+    [49/50] 441 us
+    [50/50] 441 us
+  → Average latency at 0.0 m: 441.5 us
+
+[2/9] Next distance: 0.5 m
+  Move device to 0.5 m and press Enter when ready...
+  Collecting 50 samples at 0.5 m ...
+    [ 1/50] 442 us
+    [ 2/50] 441 us
+    [ 3/50] 441 us
+    [ 4/50] 442 us
+    [ 5/50] 442 us
+    [ 6/50] 441 us
+    [ 7/50] 442 us
+    [ 8/50] 442 us
+    [ 9/50] 441 us
+    [10/50] 442 us
+    [11/50] 442 us
+    [12/50] 441 us
+    [13/50] 442 us
+    [14/50] 441 us
+    [15/50] 441 us
+    [16/50] 442 us
+    [17/50] 442 us
+    [18/50] 442 us
+    [19/50] 442 us
+    [20/50] 442 us
+    [21/50] 441 us
+    [22/50] 442 us
+    [23/50] 441 us
+    [24/50] 442 us
+    [25/50] 442 us
+    [26/50] 441 us
+    [27/50] 441 us
+    [28/50] 441 us
+    [29/50] 442 us
+    [30/50] 441 us
+    [31/50] 442 us
+    [32/50] 442 us
+    [33/50] 442 us
+    [34/50] 441 us
+    [35/50] 442 us
+    [36/50] 441 us
+    [37/50] 442 us
+    [38/50] 442 us
+    [39/50] 441 us
+    [40/50] 1366 us
+    [41/50] 441 us
+    [42/50] 442 us
+    [43/50] 442 us
+    [44/50] 441 us
+    [45/50] 441 us
+    [46/50] 441 us
+    [47/50] 441 us
+    [48/50] 441 us
+    [49/50] 442 us
+    [50/50] 441 us
+  → Average latency at 0.5 m: 460.0 us
+
+[3/9] Next distance: 1.0 m
+  Move device to 1.0 m and press Enter when ready...
+  Collecting 50 samples at 1.0 m ...
+    [ 1/50] 441 us
+    [ 2/50] 442 us
+    [ 3/50] 441 us
+    [ 4/50] 442 us
+    [ 5/50] 442 us
+    [ 6/50] 441 us
+    [ 7/50] 441 us
+    [ 8/50] 442 us
+    [ 9/50] 442 us
+    [10/50] 442 us
+    [11/50] 441 us
+    [12/50] 441 us
+    [13/50] 442 us
+    [14/50] 441 us
+    [15/50] 441 us
+    [16/50] 441 us
+    [17/50] 442 us
+    [18/50] 442 us
+    [19/50] 442 us
+    [20/50] 441 us
+    [21/50] 442 us
+    [22/50] 442 us
+    [23/50] 441 us
+    [24/50] 442 us
+    [25/50] 442 us
+    [26/50] 442 us
+    [27/50] 442 us
+    [28/50] 441 us
+    [29/50] 442 us
+    [30/50] 441 us
+    [31/50] 441 us
+    [32/50] 442 us
+    [33/50] 441 us
+    [34/50] 442 us
+    [35/50] 441 us
+    [36/50] 442 us
+    [37/50] 441 us
+    [38/50] 441 us
+    [39/50] 442 us
+    [40/50] 441 us
+    [41/50] 441 us
+    [42/50] 442 us
+    [43/50] 441 us
+    [44/50] 441 us
+    [45/50] 442 us
+    [46/50] 442 us
+    [47/50] 441 us
+    [48/50] 442 us
+    [49/50] 442 us
+    [50/50] 442 us
+  → Average latency at 1.0 m: 441.5 us
+
+[4/9] Next distance: 1.5 m
+  Move device to 1.5 m and press Enter when ready...
+  Collecting 50 samples at 1.5 m ...
+    [ 1/50] 442 us
+    [ 2/50] 441 us
+    [ 3/50] 442 us
+    [ 4/50] 442 us
+    [ 5/50] 442 us
+    [ 6/50] 442 us
+    [ 7/50] 442 us
+    [ 8/50] 325 us
+    [ 9/50] 441 us
+    [10/50] 442 us
+    [11/50] 442 us
+    [12/50] 441 us
+    [13/50] 904 us
+    [14/50] 442 us
+    [15/50] 442 us
+    [16/50] 442 us
+    [17/50] 441 us
+    [18/50] 442 us
+    [19/50] 442 us
+    [20/50] 441 us
+    [21/50] 441 us
+    [22/50] 442 us
+    [23/50] 442 us
+    [24/50] 442 us
+    [25/50] 441 us
+    [26/50] 441 us
+    [27/50] 441 us
+    [28/50] 441 us
+    [29/50] 441 us
+    [30/50] 441 us
+    [31/50] 903 us
+    [32/50] 442 us
+    [33/50] 442 us
+    [34/50] 442 us
+    [35/50] 442 us
+    [36/50] 442 us
+    [37/50] 441 us
+    [38/50] 442 us
+    [39/50] 441 us
+    [40/50] 441 us
+    [41/50] 442 us
+    [42/50] 441 us
+    [43/50] 441 us
+    [44/50] 442 us
+    [45/50] 442 us
+    [46/50] 441 us
+    [47/50] 441 us
+    [48/50] 442 us
+    [49/50] 442 us
+    [50/50] 442 us
+  → Average latency at 1.5 m: 457.7 us
+
+[5/9] Next distance: 2.0 m
+  Move device to 2.0 m and press Enter when ready...
+  Collecting 50 samples at 2.0 m ...
+    [ 1/50] 442 us
+    [ 2/50] 904 us
+    [ 3/50] 442 us
+    [ 4/50] 442 us
+    [ 5/50] 442 us
+    [ 6/50] 441 us
+    [ 7/50] 441 us
+    [ 8/50] 441 us
+    [ 9/50] 442 us
+    [10/50] 442 us
+    [11/50] 441 us
+    [12/50] 442 us
+    [13/50] 442 us
+    [14/50] 975 us
+    [15/50] 442 us
+    [16/50] 441 us
+    [17/50] 442 us
+    [18/50] 442 us
+    [19/50] 442 us
+    [20/50] 1366 us
+    [21/50] 442 us
+    [22/50] 441 us
+    [23/50] 441 us
+    [24/50] 903 us
+    [25/50] 442 us
+    [26/50] 442 us
+    [27/50] 442 us
+    [28/50] 442 us
+    [29/50] 442 us
+    [30/50] 1366 us
+    [31/50] 442 us
+    [32/50] 442 us
+    [33/50] 904 us
+    [34/50] 442 us
+    [35/50] 442 us
+    [36/50] 442 us
+    [37/50] 442 us
+    [38/50] 442 us
+    [39/50] 442 us
+    [40/50] 441 us
+    [41/50] 442 us
+    [42/50] 442 us
+    [43/50] 442 us
+    [44/50] 442 us
+    [45/50] 442 us
+    [46/50] 441 us
+    [47/50] 441 us
+    [48/50] 442 us
+    [49/50] 420 us
+    [50/50] 442 us
+  → Average latency at 2.0 m: 516.7 us
+
+[6/9] Next distance: 2.5 m
+  Move device to 2.5 m and press Enter when ready...
+  Collecting 50 samples at 2.5 m ...
+    [ 1/50] 442 us
+    [ 2/50] 442 us
+    [ 3/50] 442 us
+    [ 4/50] 1367 us
+    [ 5/50] 442 us
+    [ 6/50] 442 us
+    [ 7/50] 442 us
+    [ 8/50] 441 us
+    [ 9/50] 442 us
+    [10/50] 441 us
+    [11/50] 442 us
+    [12/50] 441 us
+    [13/50] 441 us
+    [14/50] 442 us
+    [15/50] 903 us
+    [16/50] 441 us
+    [17/50] 442 us
+    [18/50] 442 us
+    [19/50] 442 us
+    [20/50] 442 us
+    [21/50] 442 us
+    [22/50] 442 us
+    [23/50] 904 us
+    [24/50] 442 us
+    [25/50] 442 us
+    [26/50] 442 us
+    [27/50] 441 us
+    [28/50] 441 us
+    [29/50] 442 us
+    [30/50] 442 us
+    [31/50] 441 us
+    [32/50] 441 us
+    [33/50] 904 us
+    [34/50] 442 us
+    [35/50] 442 us
+    [36/50] 441 us
+    [37/50] 442 us
+    [38/50] 442 us
+    [39/50] 442 us
+    [40/50] 441 us
+    [41/50] 442 us
+    [42/50] 442 us
+    [43/50] 441 us
+    [44/50] 442 us
+    [45/50] 441 us
+    [46/50] 442 us
+    [47/50] 441 us
+    [48/50] 442 us
+    [49/50] 441 us
+    [50/50] 441 us
+  → Average latency at 2.5 m: 487.9 us
+
+[7/9] Next distance: 3.0 m
+  Move device to 3.0 m and press Enter when ready...
+  Collecting 50 samples at 3.0 m ...
+    [ 1/50] 441 us
+    [ 2/50] 442 us
+    [ 3/50] 441 us
+    [ 4/50] 441 us
+    [ 5/50] 442 us
+    [ 6/50] 441 us
+    [ 7/50] 441 us
+    [ 8/50] 441 us
+    [ 9/50] 441 us
+    [10/50] 442 us
+    [11/50] 441 us
+    [12/50] 904 us
+    [13/50] 1827 us
+    [14/50] 442 us
+    [15/50] 441 us
+    [16/50] 442 us
+    [17/50] 442 us
+    [18/50] 442 us
+    [19/50] 442 us
+    [20/50] 903 us
+    [21/50] 442 us
+    [22/50] 441 us
+    [23/50] 441 us
+    [24/50] 442 us
+    [25/50] 441 us
+    [26/50] 442 us
+    [27/50] 904 us
+    [28/50] 441 us
+    [29/50] 441 us
+    [30/50] 442 us
+    [31/50] 441 us
+    [32/50] 441 us
+    [33/50] 975 us
+    [34/50] 441 us
+    [35/50] 442 us
+    [36/50] 441 us
+    [37/50] 441 us
+    [38/50] 442 us
+    [39/50] 442 us
+    [40/50] 442 us
+    [41/50] 442 us
+    [42/50] 441 us
+    [43/50] 442 us
+    [44/50] 441 us
+    [45/50] 442 us
+    [46/50] 442 us
+    [47/50] 442 us
+    [48/50] 441 us
+    [49/50] 442 us
+    [50/50] 441 us
+  → Average latency at 3.0 m: 507.6 us
+
+[8/9] Next distance: 3.5 m
+  Move device to 3.5 m and press Enter when ready...
+  Collecting 50 samples at 3.5 m ...
+    [ 1/50] 974 us
+    [ 2/50] 1366 us
+    [ 3/50] 442 us
+    [ 4/50] 441 us
+    [ 5/50] 441 us
+    [ 6/50] 442 us
+    [ 7/50] 441 us
+    [ 8/50] 441 us
+    [ 9/50] 442 us
+    [10/50] 442 us
+    [11/50] 441 us
+    [12/50] 441 us
+    [13/50] 442 us
+    [14/50] 442 us
+    [15/50] 442 us
+    [16/50] 442 us
+    [17/50] 442 us
+    [18/50] 442 us
+    [19/50] 442 us
+    [20/50] 904 us
+    [21/50] 442 us
+    [22/50] 442 us
+    [23/50] 441 us
+    [24/50] 442 us
+    [25/50] 441 us
+    [26/50] 442 us
+    [27/50] 443 us
+    [28/50] 441 us
+    [29/50] 442 us
+    [30/50] 1366 us
+    [31/50] 442 us
+    [32/50] 442 us
+    [33/50] 441 us
+    [34/50] 442 us
+    [35/50] 441 us
+    [36/50] 441 us
+    [37/50] 441 us
+    [38/50] 1366 us
+    [39/50] 441 us
+    [40/50] 441 us
+    [41/50] 442 us
+    [42/50] 441 us
+    [43/50] 441 us
+    [44/50] 441 us
+    [45/50] 442 us
+    [46/50] 441 us
+    [47/50] 441 us
+    [48/50] 441 us
+    [49/50] 442 us
+    [50/50] 442 us
+  → Average latency at 3.5 m: 516.9 us
+
+[9/9] Next distance: 4.0 m
+  Move device to 4.0 m and press Enter when ready...
+  Collecting 50 samples at 4.0 m ...
+    [ 1/50] 442 us
+    [ 2/50] 443 us
+    [ 3/50] 442 us
+    [ 4/50] 441 us
+    [ 5/50] 442 us
+    [ 6/50] 441 us
+    [ 7/50] 442 us
+    [ 8/50] 442 us
+    [ 9/50] 414 us
+    [10/50] 442 us
+    [11/50] 442 us
+    [12/50] 442 us
+    [13/50] 441 us
+    [14/50] 441 us
+    [15/50] 442 us
+    [16/50] 442 us
+    [17/50] 441 us
+    [18/50] 442 us
+    [19/50] 441 us
+    [20/50] 442 us
+    [21/50] 441 us
+    [22/50] 441 us
+    [23/50] 442 us
+    [24/50] 442 us
+    [25/50] 442 us
+    [26/50] 442 us
+    [27/50] 442 us
+    [28/50] 442 us
+    [29/50] 441 us
+    [30/50] 442 us
+    [31/50] 903 us
+    [32/50] 441 us
+    [33/50] 442 us
+    [34/50] 442 us
+    [35/50] 442 us
+    [36/50] 441 us
+    [37/50] 441 us
+    [38/50] 442 us
+    [39/50] 442 us
+    [40/50] 442 us
+    [41/50] 442 us
+    [42/50] 441 us
+    [43/50] 441 us
+    [44/50] 442 us
+    [45/50] 441 us
+    [46/50] 442 us
+    [47/50] 442 us
+    [48/50] 442 us
+    [49/50] 442 us
+    [50/50] 442 us
+  → Average latency at 4.0 m: 450.4 us
+
+=======================================================
+  All distances collected!
+  Summary:
+     0.0 m  →  441.5 us
+     0.5 m  →  460.0 us
+     1.0 m  →  441.5 us
+     1.5 m  →  457.7 us
+     2.0 m  →  516.7 us
+     2.5 m  →  487.9 us
+     3.0 m  →  507.6 us
+     3.5 m  →  516.9 us
+     4.0 m  →  450.4 us
+=======================================================
+
+= RESTART: C:\Nrf_sdk\nRF5_SDK_17.1.0_ddde560\examples\Angulator firmware\LatencyVsTime_plot.py
+Connected to COM10
+
+=======================================================
+  Latency vs Distance — 9 points, 50 samples each
+  Distances: [0.0, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0] m
+=======================================================
+
+[1/9] Next distance: 0.0 m
+  Move device to 0.0 m and press Enter when ready...
+  Collecting 50 samples at 0.0 m ...
+    [ 1/50] 441 us
+    [ 2/50] 442 us
+    [ 3/50] 441 us
+    [ 4/50] 442 us
+    [ 5/50] 442 us
+    [ 6/50] 442 us
+    [ 7/50] 442 us
+    [ 8/50] 441 us
+    [ 9/50] 442 us
+    [10/50] 441 us
+    [11/50] 442 us
+    [12/50] 442 us
+    [13/50] 442 us
+    [14/50] 442 us
+    [15/50] 441 us
+    [16/50] 442 us
+    [17/50] 441 us
+    [18/50] 441 us
+    [19/50] 442 us
+    [20/50] 441 us
+    [21/50] 441 us
+    [22/50] 441 us
+    [23/50] 441 us
+    [24/50] 441 us
+    [25/50] 442 us
+    [26/50] 441 us
+    [27/50] 441 us
+    [28/50] 441 us
+    [29/50] 442 us
+    [30/50] 442 us
+    [31/50] 442 us
+    [32/50] 441 us
+    [33/50] 441 us
+    [34/50] 442 us
+    [35/50] 442 us
+    [36/50] 441 us
+    [37/50] 442 us
+    [38/50] 441 us
+    [39/50] 442 us
+    [40/50] 442 us
+    [41/50] 441 us
+    [42/50] 441 us
+    [43/50] 442 us
+    [44/50] 441 us
+    [45/50] 442 us
+    [46/50] 442 us
+    [47/50] 441 us
+    [48/50] 442 us
+    [49/50] 441 us
+    [50/50] 441 us
+  → Average latency at 0.0 m: 441.5 us
+
+[2/9] Next distance: 0.5 m
+  Move device to 0.5 m and press Enter when ready...
+  Collecting 50 samples at 0.5 m ...
+    [ 1/50] 442 us
+    [ 2/50] 441 us
+    [ 3/50] 441 us
+    [ 4/50] 441 us
+    [ 5/50] 442 us
+    [ 6/50] 441 us
+    [ 7/50] 441 us
+    [ 8/50] 441 us
+    [ 9/50] 441 us
+    [10/50] 441 us
+    [11/50] 441 us
+    [12/50] 442 us
+    [13/50] 441 us
+    [14/50] 442 us
+    [15/50] 441 us
+    [16/50] 441 us
+    [17/50] 442 us
+    [18/50] 441 us
+    [19/50] 442 us
+    [20/50] 442 us
+    [21/50] 442 us
+    [22/50] 442 us
+    [23/50] 441 us
+    [24/50] 442 us
+    [25/50] 441 us
+    [26/50] 441 us
+    [27/50] 441 us
+    [28/50] 442 us
+    [29/50] 441 us
+    [30/50] 442 us
+    [31/50] 441 us
+    [32/50] 442 us
+    [33/50] 441 us
+    [34/50] 442 us
+    [35/50] 441 us
+    [36/50] 441 us
+    [37/50] 441 us
+    [38/50] 441 us
+    [39/50] 442 us
+    [40/50] 442 us
+    [41/50] 442 us
+    [42/50] 441 us
+    [43/50] 441 us
+    [44/50] 442 us
+    [45/50] 441 us
+    [46/50] 442 us
+    [47/50] 903 us
+    [48/50] 442 us
+    [49/50] 442 us
+    [50/50] 441 us
+  → Average latency at 0.5 m: 450.7 us
+
+[3/9] Next distance: 1.0 m
+  Move device to 1.0 m and press Enter when ready...
+  Collecting 50 samples at 1.0 m ...
+    [ 1/50] 441 us
+    [ 2/50] 441 us
+    [ 3/50] 441 us
+    [ 4/50] 442 us
+    [ 5/50] 442 us
+    [ 6/50] 442 us
+    [ 7/50] 442 us
+    [ 8/50] 441 us
+    [ 9/50] 441 us
+    [10/50] 441 us
+    [11/50] 442 us
+    [12/50] 442 us
+    [13/50] 441 us
+    [14/50] 442 us
+    [15/50] 442 us
+    [16/50] 442 us
+    [17/50] 442 us
+    [18/50] 441 us
+    [19/50] 442 us
+    [20/50] 442 us
+    [21/50] 441 us
+    [22/50] 441 us
+    [23/50] 442 us
+    [24/50] 442 us
+    [25/50] 441 us
+    [26/50] 442 us
+    [27/50] 441 us
+    [28/50] 442 us
+    [29/50] 441 us
+    [30/50] 904 us
+    [31/50] 441 us
+    [32/50] 441 us
+    [33/50] 441 us
+    [34/50] 442 us
+    [35/50] 442 us
+    [36/50] 442 us
+    [37/50] 441 us
+    [38/50] 442 us
+    [39/50] 442 us
+    [40/50] 442 us
+    [41/50] 442 us
+    [42/50] 441 us
+    [43/50] 441 us
+    [44/50] 441 us
+    [45/50] 442 us
+    [46/50] 442 us
+Exception in Tkinter callback
+Traceback (most recent call last):
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\tkinter\__init__.py", line 1921, in __call__
+    return self.func(*args)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.10_3.10.3056.0_x64__qbz5n2kfra8p0\lib\tkinter\__init__.py", line 839, in callit
+    func(*args)
+  File "C:\Users\Prahadeesh TN\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\matplotlib\backends\_backend_tk.py", line 274, in idle_draw
+    self.draw()
+  File "C:\Users\Prahadeesh TN\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\matplotlib\backends\backend_tkagg.py", line 11, in draw
+    self.blit()
+  File "C:\Users\Prahadeesh TN\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\matplotlib\backends\backend_tkagg.py", line 14, in blit
+    _backend_tk.blit(self._tkphoto, self.renderer.buffer_rgba(),
+  File "C:\Users\Prahadeesh TN\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages\matplotlib\backends\_backend_tk.py", line 116, in blit
+    photoimage.tk.call(_blit_tcl_name, argsid)
+_tkinter.TclError: pyimage3
+
+
+Stopped early.
+
+= RESTART: C:\Nrf_sdk\nRF5_SDK_17.1.0_ddde560\examples\Angulator firmware\LatencyVsTime_plot.py
+Connected to COM10
+
+=======================================================
+  Latency vs Distance — 9 points, 50 samples each
+  Distances: [0.0, 0.5, 1.0, 1.5, 2.0, 2.5, 3.0, 3.5, 4.0] m
+=======================================================
+
+[1/9] Next distance: 0.0 m
+  Move device to 0.0 m and press Enter when ready...
+  Collecting 50 samples at 0.0 m ...
+    [ 1/50] 441 us
+    [ 2/50] 442 us
+    [ 3/50] 441 us
+    [ 4/50] 441 us
+    [ 5/50] 442 us
+    [ 6/50] 441 us
+    [ 7/50] 442 us
+    [ 8/50] 441 us
+    [ 9/50] 441 us
+    [10/50] 441 us
+    [11/50] 441 us
+    [12/50] 442 us
+    [13/50] 442 us
+    [14/50] 442 us
+    [15/50] 215 us
+    [16/50] 442 us
+    [17/50] 442 us
+    [18/50] 441 us
+    [19/50] 441 us
+    [20/50] 442 us
+    [21/50] 442 us
+    [22/50] 441 us
+    [23/50] 441 us
+    [24/50] 442 us
+    [25/50] 442 us
+    [26/50] 441 us
+    [27/50] 442 us
+    [28/50] 441 us
+    [29/50] 441 us
+    [30/50] 441 us
+    [31/50] 442 us
+    [32/50] 442 us
+    [33/50] 442 us
+    [34/50] 442 us
+    [35/50] 441 us
+    [36/50] 442 us
+    [37/50] 904 us
+    [38/50] 442 us
+    [39/50] 442 us
+    [40/50] 441 us
+    [41/50] 442 us
+    [42/50] 441 us
+    [43/50] 441 us
+    [44/50] 441 us
+    [45/50] 441 us
+    [46/50] 441 us
+    [47/50] 441 us
+    [48/50] 441 us
+    [49/50] 441 us
+    [50/50] 442 us
+  → Average latency at 0.0 m: 446.2 us
+
+[2/9] Next distance: 0.5 m
+  Move device to 0.5 m and press Enter when ready...
+  Collecting 50 samples at 0.5 m ...
+    [ 1/50] 442 us
+    [ 2/50] 442 us
+    [ 3/50] 441 us
+    [ 4/50] 441 us
+    [ 5/50] 442 us
+    [ 6/50] 441 us
+    [ 7/50] 441 us
+    [ 8/50] 441 us
+    [ 9/50] 442 us
+    [10/50] 442 us
+    [11/50] 441 us
+    [12/50] 441 us
+    [13/50] 441 us
+    [14/50] 441 us
+    [15/50] 441 us
+    [16/50] 441 us
+    [17/50] 442 us
+    [18/50] 441 us
+    [19/50] 441 us
+    [20/50] 441 us
+    [21/50] 441 us
+    [22/50] 442 us
+    [23/50] 442 us
+    [24/50] 442 us
+    [25/50] 442 us
+    [26/50] 441 us
+    [27/50] 441 us
+    [28/50] 442 us
+    [29/50] 442 us
+    [30/50] 441 us
+    [31/50] 442 us
+    [32/50] 441 us
+    [33/50] 442 us
+    [34/50] 441 us
+    [35/50] 442 us
+    [36/50] 442 us
+    [37/50] 442 us
+    [38/50] 442 us
+    [39/50] 442 us
+    [40/50] 441 us
+    [41/50] 442 us
+    [42/50] 441 us
+    [43/50] 441 us
+    [44/50] 442 us
+    [45/50] 442 us
+    [46/50] 442 us
+    [47/50] 442 us
+    [48/50] 441 us
+    [49/50] 442 us
+    [50/50] 441 us
+  → Average latency at 0.5 m: 441.5 us
+
+[3/9] Next distance: 1.0 m
+  Move device to 1.0 m and press Enter when ready...
+  Collecting 50 samples at 1.0 m ...
+    [ 1/50] 442 us
+    [ 2/50] 442 us
+    [ 3/50] 442 us
+    [ 4/50] 442 us
+    [ 5/50] 441 us
+    [ 6/50] 441 us
+    [ 7/50] 441 us
+    [ 8/50] 441 us
+    [ 9/50] 441 us
+    [10/50] 441 us
+    [11/50] 442 us
+    [12/50] 441 us
+    [13/50] 442 us
+    [14/50] 441 us
+    [15/50] 442 us
+    [16/50] 442 us
+    [17/50] 441 us
+    [18/50] 441 us
+    [19/50] 442 us
+    [20/50] 441 us
+    [21/50] 442 us
+    [22/50] 442 us
+    [23/50] 442 us
+    [24/50] 441 us
+    [25/50] 441 us
+    [26/50] 442 us
+    [27/50] 441 us
+    [28/50] 441 us
+    [29/50] 442 us
+    [30/50] 442 us
+    [31/50] 442 us
+    [32/50] 442 us
+    [33/50] 442 us
+    [34/50] 442 us
+    [35/50] 442 us
+    [36/50] 441 us
+    [37/50] 441 us
+    [38/50] 441 us
+    [39/50] 442 us
+    [40/50] 442 us
+    [41/50] 441 us
+    [42/50] 442 us
+    [43/50] 441 us
+    [44/50] 441 us
+    [45/50] 441 us
+    [46/50] 442 us
+    [47/50] 441 us
+    [48/50] 442 us
+    [49/50] 441 us
+    [50/50] 904 us
+  → Average latency at 1.0 m: 450.8 us
+
+[4/9] Next distance: 1.5 m
+  Move device to 1.5 m and press Enter when ready...
+  Collecting 50 samples at 1.5 m ...
+    [ 1/50] 442 us
+    [ 2/50] 441 us
+    [ 3/50] 441 us
+    [ 4/50] 442 us
+    [ 5/50] 1828 us
+    [ 6/50] 904 us
+    [ 7/50] 442 us
+    [ 8/50] 441 us
+    [ 9/50] 442 us
+    [10/50] 442 us
+    [11/50] 441 us
+    [12/50] 441 us
+    [13/50] 441 us
+    [14/50] 442 us
+    [15/50] 442 us
+    [16/50] 442 us
+    [17/50] 441 us
+    [18/50] 442 us
+    [19/50] 442 us
+    [20/50] 441 us
+    [21/50] 441 us
+    [22/50] 442 us
+    [23/50] 442 us
+    [24/50] 442 us
+    [25/50] 441 us
+    [26/50] 441 us
+    [27/50] 442 us
+    [28/50] 442 us
+    [29/50] 442 us
+    [30/50] 442 us
+    [31/50] 442 us
+    [32/50] 442 us
+    [33/50] 441 us
+    [34/50] 442 us
+    [35/50] 1828 us
+    [36/50] 442 us
+    [37/50] 442 us
+    [38/50] 441 us
+    [39/50] 442 us
+    [40/50] 442 us
+    [41/50] 441 us
+    [42/50] 442 us
+    [43/50] 442 us
+    [44/50] 442 us
+    [45/50] 441 us
+    [46/50] 441 us
+    [47/50] 442 us
+    [48/50] 442 us
+    [49/50] 441 us
+    [50/50] 442 us
+  → Average latency at 1.5 m: 506.3 us
+
+[5/9] Next distance: 2.0 m
+  Move device to 2.0 m and press Enter when ready...
+  Collecting 50 samples at 2.0 m ...
+    [ 1/50] 442 us
+    [ 2/50] 442 us
+    [ 3/50] 441 us
+    [ 4/50] 442 us
+    [ 5/50] 441 us
+    [ 6/50] 441 us
+    [ 7/50] 442 us
+    [ 8/50] 442 us
+    [ 9/50] 1366 us
+    [10/50] 441 us
+    [11/50] 442 us
+    [12/50] 442 us
+    [13/50] 442 us
+    [14/50] 442 us
+    [15/50] 441 us
+    [16/50] 441 us
+    [17/50] 441 us
+    [18/50] 442 us
+    [19/50] 441 us
+    [20/50] 442 us
+    [21/50] 442 us
+    [22/50] 442 us
+    [23/50] 442 us
+    [24/50] 442 us
+    [25/50] 441 us
+    [26/50] 442 us
+    [27/50] 441 us
+    [28/50] 1366 us
+    [29/50] 442 us
+    [30/50] 442 us
+    [31/50] 441 us
+    [32/50] 442 us
+    [33/50] 904 us
+    [34/50] 441 us
+    [35/50] 1366 us
+    [36/50] 442 us
+    [37/50] 442 us
+    [38/50] 441 us
+    [39/50] 441 us
+    [40/50] 1828 us
+    [41/50] 904 us
+    [42/50] 442 us
+    [43/50] 441 us
+    [44/50] 441 us
+    [45/50] 442 us
+    [46/50] 441 us
+    [47/50] 441 us
+    [48/50] 441 us
+    [49/50] 442 us
+    [50/50] 442 us
+  → Average latency at 2.0 m: 543.3 us
+
+[6/9] Next distance: 2.5 m
+  Move device to 2.5 m and press Enter when ready...
+  Collecting 50 samples at 2.5 m ...
+    [ 1/50] 442 us
+    [ 2/50] 441 us
+    [ 3/50] 442 us
+    [ 4/50] 442 us
+    [ 5/50] 442 us
+    [ 6/50] 441 us
+    [ 7/50] 442 us
+    [ 8/50] 442 us
+    [ 9/50] 441 us
+    [10/50] 442 us
+    [11/50] 441 us
+    [12/50] 441 us
+    [13/50] 442 us
+    [14/50] 441 us
+    [15/50] 442 us
+    [16/50] 441 us
+    [17/50] 441 us
+    [18/50] 441 us
+    [19/50] 442 us
+    [20/50] 442 us
+    [21/50] 904 us
+    [22/50] 441 us
+    [23/50] 442 us
+    [24/50] 442 us
+    [25/50] 442 us
+    [26/50] 904 us
+    [27/50] 442 us
+    [28/50] 441 us
+    [29/50] 442 us
+    [30/50] 442 us
+    [31/50] 442 us
+    [32/50] 443 us
+    [33/50] 441 us
+    [34/50] 441 us
+    [35/50] 441 us
+    [36/50] 441 us
+    [37/50] 441 us
+    [38/50] 441 us
+    [39/50] 442 us
+    [40/50] 441 us
+    [41/50] 442 us
+    [42/50] 442 us
+    [43/50] 442 us
+    [44/50] 442 us
+    [45/50] 441 us
+    [46/50] 442 us
+    [47/50] 441 us
+    [48/50] 442 us
+    [49/50] 442 us
+    [50/50] 441 us
+  → Average latency at 2.5 m: 460.1 us
+
+[7/9] Next distance: 3.0 m
+  Move device to 3.0 m and press Enter when ready...
+  Collecting 50 samples at 3.0 m ...
+    [ 1/50] 442 us
+    [ 2/50] 442 us
+    [ 3/50] 442 us
+    [ 4/50] 442 us
+    [ 5/50] 441 us
+    [ 6/50] 441 us
+    [ 7/50] 441 us
+    [ 8/50] 442 us
+    [ 9/50] 441 us
+    [10/50] 442 us
+    [11/50] 441 us
+    [12/50] 441 us
+    [13/50] 441 us
+    [14/50] 442 us
+    [15/50] 441 us
+    [16/50] 441 us
+    [17/50] 442 us
+    [18/50] 441 us
+    [19/50] 441 us
+    [20/50] 441 us
+    [21/50] 442 us
+    [22/50] 442 us
+    [23/50] 1366 us
+    [24/50] 442 us
+    [25/50] 442 us
+    [26/50] 904 us
+    [27/50] 441 us
+    [28/50] 442 us
+    [29/50] 441 us
+    [30/50] 442 us
+    [31/50] 441 us
+    [32/50] 441 us
+    [33/50] 441 us
+    [34/50] 442 us
+    [35/50] 441 us
+    [36/50] 442 us
+    [37/50] 442 us
+    [38/50] 442 us
+    [39/50] 442 us
+    [40/50] 441 us
+    [41/50] 442 us
+    [42/50] 442 us
+    [43/50] 441 us
+    [44/50] 441 us
+    [45/50] 441 us
+    [46/50] 442 us
+    [47/50] 442 us
+    [48/50] 441 us
+    [49/50] 1828 us
+    [50/50] 441 us
+  → Average latency at 3.0 m: 497.0 us
+
+[8/9] Next distance: 3.5 m
+  Move device to 3.5 m and press Enter when ready...
+  Collecting 50 samples at 3.5 m ...
+    [ 1/50] 442 us
+    [ 2/50] 442 us
+    [ 3/50] 441 us
+    [ 4/50] 904 us
+    [ 5/50] 442 us
+    [ 6/50] 442 us
+    [ 7/50] 441 us
+    [ 8/50] 441 us
+    [ 9/50] 442 us
+    [10/50] 441 us
+    [11/50] 441 us
+    [12/50] 441 us
+    [13/50] 441 us
+    [14/50] 441 us
+    [15/50] 441 us
+    [16/50] 442 us
+    [17/50] 1827 us
+    [18/50] 442 us
+    [19/50] 442 us
+    [20/50] 442 us
+    [21/50] 441 us
+    [22/50] 442 us
+    [23/50] 442 us
+    [24/50] 441 us
+    [25/50] 442 us
+    [26/50] 442 us
+    [27/50] 442 us
+    [28/50] 441 us
+    [29/50] 442 us
+    [30/50] 442 us
+    [31/50] 442 us
+    [32/50] 441 us
+    [33/50] 442 us
+    [34/50] 441 us
+    [35/50] 441 us
+    [36/50] 442 us
+    [37/50] 442 us
+    [38/50] 442 us
+    [39/50] 442 us
+    [40/50] 441 us
+    [41/50] 442 us
+    [42/50] 442 us
+    [43/50] 441 us
+    [44/50] 441 us
+    [45/50] 442 us
+    [46/50] 441 us
+    [47/50] 442 us
+    [48/50] 442 us
+    [49/50] 441 us
+    [50/50] 442 us
+  → Average latency at 3.5 m: 478.5 us
+
+[9/9] Next distance: 4.0 m
+  Move device to 4.0 m and press Enter when ready...
+  Collecting 50 samples at 4.0 m ...
+    [ 1/50] 441 us
+    [ 2/50] 442 us
+    [ 3/50] 442 us
+    [ 4/50] 441 us
+    [ 5/50] 379 us
+    [ 6/50] 441 us
+    [ 7/50] 442 us
+    [ 8/50] 441 us
+    [ 9/50] 441 us
+    [10/50] 441 us
+    [11/50] 442 us
+    [12/50] 441 us
+    [13/50] 442 us
+    [14/50] 442 us
+    [15/50] 441 us
+    [16/50] 442 us
+    [17/50] 441 us
+    [18/50] 441 us
+    [19/50] 442 us
+    [20/50] 442 us
+    [21/50] 442 us
+    [22/50] 442 us
+    [23/50] 442 us
+    [24/50] 442 us
+    [25/50] 442 us
+    [26/50] 441 us
+    [27/50] 442 us
+    [28/50] 442 us
+    [29/50] 442 us
+    [30/50] 442 us
+    [31/50] 441 us
+    [32/50] 442 us
+    [33/50] 443 us
+    [34/50] 442 us
+    [35/50] 442 us
+    [36/50] 441 us
+    [37/50] 442 us
+    [38/50] 442 us
+    [39/50] 442 us
+    [40/50] 441 us
+    [41/50] 442 us
+    [42/50] 442 us
+    [43/50] 252 us
+    [44/50] 442 us
+    [45/50] 442 us
+    [46/50] 191 us
+    [47/50] 441 us
+    [48/50] 441 us
+    [49/50] 441 us
+    [50/50] 442 us
+  → Average latency at 4.0 m: 431.6 us
+
+=======================================================
+  All distances collected!
+  Summary:
+     0.0 m  →  446.2 us
+     0.5 m  →  441.5 us
+     1.0 m  →  450.8 us
+     1.5 m  →  506.3 us
+     2.0 m  →  543.3 us
+     2.5 m  →  460.1 us
+     3.0 m  →  497.0 us
+     3.5 m  →  478.5 us
+     4.0 m  →  431.6 us
+=======================================================
